@@ -1,0 +1,33 @@
+﻿
+# Android / Gradle
+.gradle/
+.kotlin/
+build/
+local.properties
+.externalNativeBuild/
+.cxx/
+
+# Android Studio
+.idea/
+*.iml
+
+# Archivos generados
+*.apk
+*.aab
+*.log
+captures/
+
+# Claves y configuración privada
+*.jks
+*.keystore
+keystore.properties
+.env
+.env.*
+
+# Datos locales de la aplicación
+gestion_empresa.json
+gestion_empresa.json.*
+
+# Sistema
+.DS_Store
+Thumbs.db
